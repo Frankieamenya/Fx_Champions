@@ -1,0 +1,25 @@
+{
+  "name": "elevatefx",
+  "version": "1.0.0",
+  "description": "Website for Elevate FX School",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustBemsen/ElevateFX.git"
+  },
+  "keywords": [
+    "elevate",
+    "elevatefx",
+    "elevateSchool",
+    "fxschool"
+  ],
+  "author": "Daniel Bemsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustBemsen/ElevateFX/issues"
+  },
+  "homepage": "https://github.com/AugustBemsen/ElevateFX#readme"
+}
