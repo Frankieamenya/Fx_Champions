@@ -1,25 +1,29 @@
 {
-  "name": "elevatefx",
+  "name": "fx-champions",
   "version": "1.0.0",
-  "description": "Website for Elevate FX School",
+  "description": "FX Champions Website",
   "main": "index.js",
   "scripts": {
+    "start": "your-start-command",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AugustBemsen/ElevateFX.git"
+    "url": "git+https://github.com/Frankieamenya/Fx_Champions.git"
   },
   "keywords": [
-    "elevate",
-    "elevatefx",
-    "elevateSchool",
-    "fxschool"
+    "fx",
+    "fx-champions",
+    "forex",
+    "trading"
   ],
-  "author": "Daniel Bemsen",
-  "license": "ISC",
+  "author": "Frankie Amenya",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AugustBemsen/ElevateFX/issues"
+    "url": "https://github.com/Frankieamenya/Fx_Champions/issues"
   },
-  "homepage": "https://github.com/AugustBemsen/ElevateFX#readme"
+  "homepage": "https://github.com/Frankieamenya/Fx_Champions#readme",
+  "dependencies": {
+    // your dependencies
+  }
 }
